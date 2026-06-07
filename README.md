@@ -41,10 +41,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: [your-portfolio-link]
-- 🔗 LinkedIn: [your-linkedin-link]
-- 🐦 X/Twitter: [your-twitter-link]
-- 📸 Instagram: [your-instagram-link]
+- 💼 Instagram: [rahafebx101](https://instagram.com/rahafebx101)
+- 🔗 X/Twitter: [rahafebx101](https://x.com/rahafebx101)
 
 ---
 
