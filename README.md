@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <!-- javascript -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <!-- bootstrap -->
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <!-- Tailwind CSS -->
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <!-- Git -->
@@ -121,10 +123,10 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:hello@rahafebx.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bsky.app/profile/rahafebx101.bsky.social"><img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
-  <!-- <a href="https://x.com/rahafebx101"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> -->
-  <a href="https://github.com/rahafebx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hello@rahafebx.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bsky.app/profile/rahafebx101.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+  <!-- <a href="https://x.com/rahafebx101" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> -->
+  <a href="https://github.com/rahafebx" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
