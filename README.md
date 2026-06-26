@@ -12,42 +12,56 @@
   I started my front-end journey with HTML and CSS, fell in love with JavaScript, and now I'm deep in React — hooks, state management, and all the good stuff.
 </p>
 
-
 <p align="center">
   I believe in writing code that's clean, accessible, and actually makes sense to the next person who reads it. I share my journey online — wins, bugs, and everything in between — because I think learning in public makes us all better.
 </p>
 
-
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+### Primary Skills
 
 <p>
-Comfortable with: HTML5 • CSS3 • Flexbox/Grid • JavaScript (ES6+) • Responsive Design • Git
+    <!-- html -->
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <!-- css -->
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <!-- javascript -->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <!-- Tailwind CSS -->
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <!-- Git -->
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <!-- GitHub -->
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <!-- vercel -->
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <!-- WordPress -->
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+    <!-- mysql -->
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <!-- php -->
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-<p align="center">
+### Learning & Exploring
 
-Currently learning: React • State Management • API Integration
-
-Exploring next: TypeScript • Testing
+<p>
+    <!-- Figma -->
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <!-- react -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <!-- TypeScript -->
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <!-- Next.js -->
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <!-- supabase -->
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ## 🚀 Featured Projects
 
-### ⌨️ [Vanilla Typing Game](https://github.com/rahafebx/vanilla-typing-game)
+### [Vanilla Typing Game](https://github.com/rahafebx/vanilla-typing-game)
+
 > A beautiful, feature-rich typing game built with vanilla JavaScript, HTML, and CSS.
 
 - Test your typing speed and accuracy with real-time feedback
@@ -56,9 +70,8 @@ Exploring next: TypeScript • Testing
 
 **Tech:** HTML · CSS · Vanilla JavaScript · Local Storage
 
+### [Vanilla Todo CRUD](https://github.com/rahafebx/vanilla-todo-crud)
 
-
-### ✅ [Vanilla Todo CRUD](https://github.com/rahafebx/vanilla-todo-crud)
 > A powerful Todo app showcasing full CRUD operations with a modern UI.
 
 - Create, read, update, and delete todos with inline editing
@@ -67,16 +80,12 @@ Exploring next: TypeScript • Testing
 
 **Tech:** HTML · CSS · Vanilla JavaScript · DOM Manipulation
 
-
-
 ## 📈 What I'm Focused On
 
 - 🏗️ Building scalable, accessible front-end applications with React & Next.js
 - 🎨 Designing reusable component libraries and design systems
 - ⚡ Optimizing performance and user experience
 - 📱 Creating responsive, mobile-first interfaces
-
-
 
 ## 💼 Looking for Opportunities
 
@@ -89,8 +98,6 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
 **Open to:** Full-time · Remote · Freelance · Contract
 
 📫 [hello@rahafebx.me](mailto:hello@rahafebx.me)
-
-
 
 ## 📊 GitHub Stats
 
@@ -107,11 +114,9 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahafebx&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahafebx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-
+</p> -->
 
 ## 🌐 Let's Connect
 
