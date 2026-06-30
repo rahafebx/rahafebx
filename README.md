@@ -62,6 +62,23 @@
 
 ## 🚀 Featured Projects
 
+### [Simple React Shop Frontend](https://github.com/rahafebx/simple-react-shop-frontend)
+
+> A sleek, responsive e-commerce frontend built with React and Tailwind CSS.
+
+- Product catalog with rating, discount badges, and price display
+- Shopping cart with quantity controls (add, remove, update)
+- Checkout form with validation
+- User authentication (login / signup) with localStorage persistence
+- Theme toggle (light / dark / system)
+- Responsive layout with mobile hamburger menu
+
+**Tech:** React · Tailwind CSS · React Router · Local Storage · Vite
+
+<a href="https://rebex-ss.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Demo-View%20Live-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
+</a>
+
 ### [Vanilla Typing Game](https://github.com/rahafebx/vanilla-typing-game)
 
 > A beautiful, feature-rich typing game built with vanilla JavaScript, HTML, and CSS.
@@ -71,6 +88,10 @@
 - Fully responsive design with smooth animations
 
 **Tech:** HTML · CSS · Vanilla JavaScript · Local Storage
+
+<a href="https://rahafebx.github.io/vanilla-typing-game" target="_blank">
+  <img src="https://img.shields.io/badge/Demo-View%20Live-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
+</a>
 
 ### [Vanilla Todo CRUD](https://github.com/rahafebx/vanilla-todo-crud)
 
@@ -82,12 +103,17 @@
 
 **Tech:** HTML · CSS · Vanilla JavaScript · DOM Manipulation
 
+<a href="https://rahafebx.github.io/vanilla-todo-crud/" target="_blank">
+  <img src="https://img.shields.io/badge/Demo-View%20Live-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" />
+</a>
+
 ## 📈 What I'm Focused On
 
-- 🏗️ Building scalable, accessible front-end applications with React & Next.js
-- 🎨 Designing reusable component libraries and design systems
-- ⚡ Optimizing performance and user experience
-- 📱 Creating responsive, mobile-first interfaces
+- professional git and github advanced techniques
+- Building scalable, accessible front-end applications with React & Next.js
+- Designing reusable component libraries and design systems
+- Optimizing performance and user experience
+- Creating responsive, mobile-first interfaces
 
 ## 💼 Looking for Opportunities
 
@@ -104,7 +130,7 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahafebx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rahafebx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafebx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
