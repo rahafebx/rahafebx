@@ -130,7 +130,7 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rahafebx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rahafebx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafebx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
@@ -150,7 +150,7 @@ I'm actively seeking **front-end developer** or **junior web developer** roles w
 
 <p align="center">
   <a href="mailto:hello@rahafebx.me" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bsky.app/profile/rahafebx101.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+  <a href="https://bsky.app/profile/rahafebx.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
   <!-- <a href="https://x.com/rahafebx101" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> -->
   <a href="https://github.com/rahafebx" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
