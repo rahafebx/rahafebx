@@ -44,11 +44,15 @@ rebex-tele/       git-snaps/        typeebx/
 ├── Supabase      ├── Markdown      ├── HTML
 └── TypeScript    └── JSON          └── CSS
 
-bila-academy/     rebex-shop/       rebex-todo/
+bila-academy/     rebex-shop/       todoebx/
 ├── WordPress     ├── React 19      ├── JavaScript
 ├── PHP           ├── Vite 8        ├── CSS
 └── MySQL         └── Tailwind v4   └── LocalStorage
 
+yeni-theme/       sari-theme/       kremsi-theme/
+├── WordPress     ├── WordPress     ├── WordPress
+├── PHP           ├── PHP           ├── PHP
+└── MySQL         └── MySQL         └── MySQL
 
 rebex@github:~$ cat philosophy.md
 
@@ -80,6 +84,18 @@ rebex@github:~$ whoami
 رهف ابراهيم — ريبيكس
 Full-Stack Developer
 البساطة. الوضوح. الأداء.
+
+rebex@github:~$ cat hire_me.sh
+#!/bin/bash
+echo "هل تبحث عن مطور لبناء مشروعك القادم؟"
+echo "──────────────────────────────────────────────"
+echo "• أحوّل أفكار الشركات والمتاجر إلى أنظمة حقيقية سريعة وآمنة."
+echo "• متخصصة في بناء لوحات التحكم، التطبيقات المخصصة، وتطوير قوالب WordPress المتقدمة."
+echo "• أهتم بنظافة الكود، الأداء العالي (Performance)، وحماية البيانات."
+echo ""
+echo "للبدء فوراً وتأمين مقعدك للمشاريع القادمة:"
+echo "اضغط هنا للمناقشة وحجز استشارة مجانية: https://rahafebx.me"
+echo "تصفح دراسات الحالة للمشاريع كاملة: https://rahafebx.me"
 
 rebex@github:~$ _
 
