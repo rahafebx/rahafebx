@@ -39,12 +39,12 @@ frontend/         backend/          devops/
 
 rebex@github:~$ ls ~/projects
 
-rebex-tele/       git-snaps/        typeebx/
+rebex-tele/       git-snaps/        typeEbx/
 ├── Next.js       ├── React         ├── JavaScript
 ├── Supabase      ├── Markdown      ├── HTML
 └── TypeScript    └── JSON          └── CSS
 
-bila-academy/     rebex-shop/       todoebx/
+bila-academy/     rebex-shop/       todoEbx/
 ├── WordPress     ├── React 19      ├── JavaScript
 ├── PHP           ├── Vite 8        ├── CSS
 └── MySQL         └── Tailwind v4   └── LocalStorage
@@ -53,6 +53,11 @@ yeni-theme/       sari-theme/       kremsi-theme/
 ├── WordPress     ├── WordPress     ├── WordPress
 ├── PHP           ├── PHP           ├── PHP
 └── MySQL         └── MySQL         └── MySQL
+
+rebex-telegram/
+├── PHP 
+├── Telegram Bot API
+└── MySQL  
 
 rebex@github:~$ cat philosophy.md
 
@@ -75,6 +80,8 @@ rebex@github:~$ cat contact.json
   "x": "@rahafebx0",
   "bluesky": "@rahafebx.me",
   "github": "@rahafebx",
+  "facebook": "@rahafebx0",
+  "instagram": "@rahafebx",
   "status": "متاحة للعمل على مشاريع جديدة"
 }
 
@@ -82,7 +89,7 @@ rebex@github:~$ cat contact.json
 rebex@github:~$ whoami
 
 رهف ابراهيم — ريبيكس
-Full-Stack Developer
+Full-Stack Web Developer
 البساطة. الوضوح. الأداء.
 
 rebex@github:~$ cat hire_me.sh
@@ -94,8 +101,8 @@ echo "• متخصصة في بناء لوحات التحكم، التطبيقا�
 echo "• أهتم بنظافة الكود، الأداء العالي (Performance)، وحماية البيانات."
 echo ""
 echo "للبدء فوراً وتأمين مقعدك للمشاريع القادمة:"
-echo "اضغط هنا للمناقشة وحجز استشارة مجانية: https://rahafebx.me"
-echo "تصفح دراسات الحالة للمشاريع كاملة: https://rahafebx.me"
+echo "اضغط هنا للمناقشة وحجز استشارة مجانية: https://rahafebx.me/contact"
+echo "تصفح دراسات الحالة للمشاريع كاملة: https://rahafebx.me/projects"
 
 rebex@github:~$ _
 
